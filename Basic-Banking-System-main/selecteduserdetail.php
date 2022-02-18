@@ -190,7 +190,7 @@ if(isset($_POST['submit']))
     </div>
 
     <footer class="text-center">
-      <p> <i> <i class="far fa-copyright"></i></i> 2022. Made by <b>ROHAN KHANDARE</b> <br> GRIP @The Sparks Foundation</p>
+      <p> <i> <i class="far fa-copyright"></i></i> 2022. Made by <b>YASHARTH PRASAD</b> <br> GRIP @The Sparks Foundation</p>
     </footer>
 
 
